@@ -76,35 +76,35 @@ print('RMSE = ',rmse)
    
 ![dataset_head](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/592c5505-5ae3-4085-bccd-53284a4b6e7f)
 
-3. df.tail()
+2. df.tail()
    
 ![dataset_tail](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/bb7d70eb-8200-4965-8e5f-ba2ba41847f7)
 
-5. Array value of X
+3. Array value of X
    
 ![Array values of X](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/8270530d-0da7-4d6e-b2ba-b2adb240c742)
 
-7. Array value of Y
+4. Array value of Y
    
 ![Array values of Y](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/2e706aeb-c60a-480c-8e47-525d5cf38c08)
 
-9. Values of Y prediction
+5. Values of Y prediction
     
 ![Y_predicted_values](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/5a8ddf35-9be9-4b1f-b387-d696fc8b28ae)
 
-11. Values of Y test
+6. Values of Y test
     
 ![Y_test_values](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/0e142d44-ea0f-4e5c-acf9-85823eb0a8aa)
 
-13. Training Set Graph
+7. Training Set Graph
     
 ![training_set_graph](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/f4aa87d2-5eca-4feb-8736-696a921309fb)
 
-15. Test Set Graph
+8. Test Set Graph
     
 ![test_set_graph](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/e44d0633-c017-437e-9446-f399b8199bc0)
 
-17. Values of MSE, MAE and RMSE
+9. Values of MSE, MAE and RMSE
     
 ![error_values](https://github.com/YogiReddy117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123739437/ec8a9a2d-47a6-4ded-a5f2-e96495fafe56)
 
